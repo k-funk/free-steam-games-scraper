@@ -17,3 +17,12 @@
   - Offer Valid: 2026-06-26 18:30 – 2026-06-28 18:00
   - Description: In Popgoes Arcade, you play as a child. You're not going to be killed by a mysterious man, you're not going to be stuffed into a suit or given a mask to wear in purgatory. No. Today, you're just going to play a damn game on a top-of-the-line Popgoes Pizzeria arcade machine. You're going to play Weasel World. Your favourite. But Weasel World feels… strange today. It plays the same, it looks the same, it... smells the same... But there's just something wrong about it. And with your little hand at the joystick, you WILL find out what that something is. Until your parents come to pick you up, of course.
   - Genre: RPG
+
+## 2026-07-15
+
+- **Catch Me!**
+  - Release Date: 2016-06-11
+  - Steam Store: https://store.steampowered.com/app/1741160
+  - Offer Valid: 2026-07-15 17:01 – 2026-07-17 17:00
+  - Description: "Catch Me" is a massively-multiplayer game of burglary and base defense. Players rob each other in this world.
+  - Genre: Action, Casual, Indie, Sports
