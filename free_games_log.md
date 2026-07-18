@@ -26,3 +26,12 @@
   - Offer Valid: 2026-07-15 17:01 – 2026-07-17 17:00
   - Description: "Catch Me" is a massively-multiplayer game of burglary and base defense. Players rob each other in this world.
   - Genre: Action, Casual, Indie, Sports
+
+## 2026-07-17
+
+- **The Life and Suffering of Sir Brante**
+  - Release Date: 2021-03-04
+  - Steam Store: https://store.steampowered.com/app/1272160
+  - Offer Valid: 2026-07-17 17:02 – 2026-07-23 17:00
+  - Description: A narrative-driven RPG set in a gritty world where a person's Lot is determined at birth, while the gods are real and preside over the fates of men. Set out on a lifelong journey and carve out your own destiny. Will you become a judge, an inquisitor, or conspire against the old order? You decide!
+  - Genre: Adventure, Indie, RPG, Simulation, Strategy, Free To Play
