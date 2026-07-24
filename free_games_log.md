@@ -35,3 +35,12 @@
   - Offer Valid: 2026-07-17 17:02 – 2026-07-23 17:00
   - Description: A narrative-driven RPG set in a gritty world where a person's Lot is determined at birth, while the gods are real and preside over the fates of men. Set out on a lifelong journey and carve out your own destiny. Will you become a judge, an inquisitor, or conspire against the old order? You decide!
   - Genre: Adventure, Indie, RPG, Simulation, Strategy, Free To Play
+
+## 2026-07-23
+
+- **Yet Another Zombie Defense HD**
+  - Release Date: 2017-08-25
+  - Steam Store: https://store.steampowered.com/app/674750
+  - Offer Valid: 2026-07-23 17:01 – 2026-07-30 17:00
+  - Description: Build your base by day. Defend it by night. Stay alive as long as you can. Yet Another Zombie Defense HD is an unusual mix of dual-stick zombie shooter and tower defense genres. The player is free to choose from nine unique weapons and mount them onto auto turrets or set up defensive barricades to stay alive as long as he can. There are also power-ups to collect, different zombie types to shoot at and cooperative mode.
+  - Genre: Action, Indie
