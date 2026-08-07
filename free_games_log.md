@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-08-05
+
+- **Moonlighter**
+  - Release Date: 2018-05-29
+  - Steam Store: https://store.steampowered.com/app/606150
+  - Offer Valid: 2026-08-05 18:30 – 2026-08-09 17:00
+  - Description: Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.
+  - Genre: Action, Adventure, Indie
+
 ## 2026-07-23
 
 - **Yet Another Zombie Defense HD**
