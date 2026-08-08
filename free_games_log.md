@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-08-07
+
+- **Breathedge**
+  - Release Date: 2018-09-18
+  - Steam Store: https://store.steampowered.com/app/738520
+  - Offer Valid: 2026-08-07 17:30 – 2026-08-09 17:00
+  - Description: Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.
+  - Genre: Action, Adventure, Indie, Simulation
+
 ## 2026-08-05
 
 - **Moonlighter**
