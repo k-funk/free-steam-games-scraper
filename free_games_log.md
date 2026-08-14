@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-08-13
+
+- **Deponia**
+  - Release Date: 2012-08-07
+  - Steam Store: https://store.steampowered.com/app/214340
+  - Offer Valid: 2026-08-13 17:01 – 2026-08-20 17:00
+  - Description: Deponia is a fast-paced comedy of errors and one of the most unusual love stories in gaming history. The twist-filled story takes its off-beat characters all over trash planet Deponia, a unique game world in the style of Douglas Adams, Terry Pratchett and Matt Groening. From Kuvaq, an improvised village built inside a giant trash heap, to the swimming black market and the dark corners of the elevated planetary railways: The new adventure game from the makers of The Whispered World, Edna & Harvey: The Breakout and A New Beginning is brought to life with detailed hand-painted backgrounds in widescreen format and top-quality cartoon animation.
+  - Genre: Adventure, Indie
+
 ## 2026-08-07
 
 - **Breathedge**
