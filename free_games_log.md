@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-08-24
+
+- **Dokimon Quest**
+  - Release Date: 2024-11-22
+  - Steam Store: https://store.steampowered.com/app/2019300
+  - Offer Valid: 2026-08-24 17:30 – 2026-08-26 17:00
+  - Description: A monster-taming RPG meets GBC-era nostalgia. Capture and train 140+ Dokimon across 15+ towns. Uncover the mystery behind your missing childhood friend in the Xelos region.
+  - Genre: Adventure, Casual, RPG, Strategy
+
 ## 2026-08-13
 
 - **Deponia**
