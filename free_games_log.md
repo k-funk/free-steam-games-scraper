@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-09-14
+
+- **Crystal Crisis**
+  - Release Date: 2019-05-28
+  - Steam Store: https://store.steampowered.com/app/447700
+  - Offer Valid: 2026-09-14 07:01 – 2026-09-22 06:59
+  - Description: An all-star cast of heroes has gathered to test their mettle in this cute and chaotic new color-matching combat game for Nintendo Switch. Crystal Crisis is presented like a one-on-one fighting game, but instead of pressing buttons to kick and punch, players arrange falling gems into matching colors to clear them from the screen and inflict damage on their opponents. It's the ultimate puzzle battle throwdown!
+  - Genre: Action, Casual
+
 ## 2026-08-24
 
 - **Dokimon Quest**
