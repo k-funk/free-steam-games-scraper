@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-09-16
+
+- **Space Menace**
+  - Release Date: 2022-11-11
+  - Steam Store: https://store.steampowered.com/app/2000040
+  - Offer Valid: 2026-09-16 17:01 – 2026-09-23 17:00
+  - Description: Space Menace is a real-time sci-fi space exploration and space battle game. You play as a space captain, seeking fortune and glory as you see fit. War rages across the galaxy. Factions are fighting for total dominance. Survive and thrive in these chaotic times.
+  - Genre: Action, Indie, Simulation, Strategy
+
 ## 2026-09-14
 
 - **Crystal Crisis**
