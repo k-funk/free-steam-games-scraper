@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-09-18
+
+- **Deadshot**
+  - Release Date: 2022-09-01
+  - Steam Store: https://store.steampowered.com/app/2484180
+  - Offer Valid: 2026-09-18 17:01 – 2026-09-23 17:00
+  - Description: Deadshot is a browser-based multiplayer first-person shooter inspired by Counter-Strike. Players compete in real-time online matches across multiple maps using different weapon classes. The game features a movement system that includes sliding mechanics for fast-paced engagements. It runs directly in a web browser without requiring a download or installation.
+  - Genre: Action, Indie
+
 ## 2026-09-16
 
 - **Space Menace**
