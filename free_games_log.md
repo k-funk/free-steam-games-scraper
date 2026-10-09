@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-10-08
+
+- **Pony Island**
+  - Release Date: 2016-01-04
+  - Steam Store: https://store.steampowered.com/app/405640
+  - Offer Valid: 2026-10-08 17:30 – 2026-10-12 17:00
+  - Description: Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. It is not a game about ponies.
+  - Genre: Indie
+
 ## 2026-09-18
 
 - **Deadshot**
