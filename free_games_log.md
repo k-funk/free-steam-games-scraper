@@ -1,5 +1,14 @@
 # Free Steam Games Log
 
+## 2026-10-09
+
+- **Fireside Feelings**
+  - Release Date: 2025-06-07
+  - Steam Store: https://store.steampowered.com/app/2990600
+  - Offer Valid: 2026-10-09 17:01 – 2026-10-12 17:00
+  - Description: A game about sharing emotions and listening to the ones of other people. Embody a cute character, create your cosiest safe place and gather around the campfire to be a part of a collective story. We all need a good talk under the stars
+  - Genre: Casual, Indie
+
 ## 2026-10-08
 
 - **Pony Island**
